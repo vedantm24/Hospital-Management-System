@@ -179,7 +179,7 @@ public class AboutUs extends Application  {
 		c1a3.setStyle("-fx-text-fill: #2f6de0;"
 					+ "-fx-font: normal bold 15px 'arial';");
     	
-    	String q4 = "How can you help someone with help problems?";
+    	String q4 = "How can you help someone with health problems?";
 		Label c1q4 = new Label(q4);
 		c1q4.setStyle("-fx-font: normal bold 16px 'arial' ;");
     	String a4 = "\nAsk what kind of friend the person needs you to be\r\n"
