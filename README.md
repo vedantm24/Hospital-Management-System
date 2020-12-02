@@ -10,7 +10,7 @@
 
 ![alt text](https://github.com/Abhinav00711/Hospital-Management-System/blob/main/Project/Screenshots/Appointment.png?raw=true)
 
-![alt text](https://github.com/Abhinav00711/Hospital-Management-System/blob/main/Project/Screenshots/AboutUs.png?raw=true)
+![alt text](https://github.com/KingSlayer08/Hospital-Management-System/blob/main/Project/Screenshots/AboutUs.png)
 
 ![alt text](https://github.com/Abhinav00711/Hospital-Management-System/blob/main/Project/Screenshots/Doctor_UserDetails.PNG?raw=true)
 
